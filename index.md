@@ -30,4 +30,4 @@ Saved corrections and comments remain in extension-local storage until you delet
 
 ## Changes and contact
 
-If Critter's data practices change, this policy will be updated with a new date. For questions about this policy, use the developer contact information on Critter's browser extension store listing.
+If Critter's data practices change, this policy will be updated with a new date. For questions about this policy, contact kingkrampuserased@gmail.com.
